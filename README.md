@@ -20,7 +20,7 @@ If your visualization is web-based,  it would be great if your submissions can b
 
 Access our visualization at http://cse512-14w.github.io/a3-jheer-kanitw/ or download this repository and run `python -m SimpleHTTPServer 9000` and access this from http://localhost:9000/.
 
-(If you put your work online, please also put a link to your visualization in the [repository description](http://note.io/1n3u46s) so people can access it directly from CSE512-14W page.)
+(If you put your work online, please also write [one-line description and put a link to your final work](http://note.io/1n3u46s) so people can access it directly from CSE512-14W page.)
 
 ## Story Board
 
